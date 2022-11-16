@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danelysbrito
-- 👀 I’m interested in QA
+- 👀 I’m interested in QA and Programming
 - 🌱 I’m currently learning Cypress
 - 📫 How to reach me: https://www.linkedin.com/in/danelys-brito-gonz%C3%A1lez-418722140/
 
