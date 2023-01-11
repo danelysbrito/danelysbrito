@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danelysbrito
 - 👀 I’m interested in QA and Programming
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning Cypressand Test Cafe
 - 📫 How to reach me: https://www.linkedin.com/in/danelys-brito-gonz%C3%A1lez-418722140/
 
 <!---
