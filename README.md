@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="[[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Developer,+Speaker,+Teacher;Open+Source+Contributor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EE2F&width=435&lines=Computer+Engineer)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EE2F&width=435&lines=Computer+Engineer)" alt="Typing SVG" /></a>
 </p>
 
 - 👀 I’m interested in QA, Programming and Machine Learning
