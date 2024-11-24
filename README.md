@@ -16,6 +16,7 @@
 <a href="https://www.stackoverflow.com/users/22474093/danelys-brito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@danelys.brito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
 <a href="https://www.kaggle.com/danelysbrito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
+<a href="https://www.strava.com/athletes/65662211" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349518/strava.svg" width="32" height="32" /></a>
 </p>
 
 * **Profession**: 💻 Software Engineer
