@@ -11,7 +11,7 @@
 
 <p align="left"> 
 <a href="https://www.github.com/danelysbrito" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="32" height="32" /></a>
-<a href="https://scholar.google.com/citations?user=nh4wprsAAAAJ&hl=es&oi=ao" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349396/google-scholar.svg" width="32" height="32" /></a>
+<a href="https://scholar.google.com/citations?user=nh4wprsAAAAJ&hl=es&oi=ao" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/gladysrowe.com/wp-content/uploads/2023/10/Background-orange.png?resize=150%2C150&ssl=1" width="32" height="32" /></a>
 <a href="https://gitlab.com/danelys.brito" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/danelys-brito-gonzalez" target="_blank" rel="noreferrer"><img src="https://www.pngmart.com/files/21/Linkedin-PNG-Clipart.png" width="32" height="32" /></a> 
 <a href="https://www.stackoverflow.com/users/22474093/danelys-brito" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
