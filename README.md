@@ -27,8 +27,7 @@
 * ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl).
 * 🤝 I'm open to collaborating on Education Projects.
 * Happy mom👪, always learning.🌻Lover of running🏃, design💻, plastic arts🎨, and photography📷
-* My [] [Strava Profile]((https://www.strava.com/athletes/65662211)/)
-* [Strava Profile🏃](https://www.strava.com/athletes/65662211/)
+* My [Strava Profile🏃](https://www.strava.com/athletes/65662211/)
 * My Instagram Profile📷: https://www.instagram.com/danelys.brito/ 
 
 <!---
