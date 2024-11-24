@@ -24,11 +24,11 @@
 
 ### More About Me:
 * 🌍 I am a Cuban 🇨🇺 living in Chile 🇨🇱.
-* * ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl).
-* * 🤝 I'm open to collaborating on Education Projects.
-* * Happy mom👪, always learning.🌻Lover of running🏃, design💻, plastic arts🎨, and photography📷
-* * My Strava Profile🏃: https://www.strava.com/athletes/65662211
-* * My Instagram Profile📷: https://www.instagram.com/danelys.brito/ 
+* ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl).
+* 🤝 I'm open to collaborating on Education Projects.
+* Happy mom👪, always learning.🌻Lover of running🏃, design💻, plastic arts🎨, and photography📷
+* My [Strava Profile🏃]: (https://www.strava.com/athletes/65662211)
+* My Instagram Profile📷: https://www.instagram.com/danelys.brito/ 
 
 <!---
 danelysbrito/danelysbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
