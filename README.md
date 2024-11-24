@@ -26,7 +26,7 @@
 
 ### More About Me:
 * 🌍 I am a Cuban 🇨🇺 living in Chile 🇨🇱.
-* ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl).
+* ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl)
 * 🤝 I'm open to collaborating on Education Projects.
 * Happy mom👪, always learning.🌻Lover of running🏃, design💻, plastic arts🎨, and photography📷
 
