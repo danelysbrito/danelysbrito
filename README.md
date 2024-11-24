@@ -17,6 +17,7 @@
 <a href="http://www.medium.com/@danelys.brito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
 <a href="https://www.kaggle.com/danelysbrito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
 <a href="https://www.strava.com/athletes/65662211" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349518/strava.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/danelys.brito/" target="_blank" rel="noreferrer"><img src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-orange.png" width="32" height="32" /></a>
 </p>
 
 * **Profession**: 💻 Software Engineer
