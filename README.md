@@ -17,9 +17,18 @@
 <a href="http://www.medium.com/@danelys.brito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1200px-Eo_circle_orange_letter-m.svg.png" width="32" height="32" /></a>
 <a href="https://www.kaggle.com/danelysbrito" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eo_circle_orange_letter-k.svg/1200px-Eo_circle_orange_letter-k.svg.png" width="32" height="32" /></a>
 </p>
-- 👀 I’m interested in QA, Programming and Machine Learning
-- 🌱 I’m currently studying for a PhD degree 
-- 📫 How to reach me: https://www.linkedin.com/in/danelys-brito-gonz%C3%A1lez-418722140/
+
+* **Profession**: 💻 Software Engineer
+* **Current Work**:
+  * 📘💻 PhD student in Computer Science at the Federico Santa Maria Technical University, Chile. Researching Machine Learning applied to Software Engineering.
+
+### More About Me:
+* 🌍 I am a Cuban 🇨🇺 living in Chile 🇨🇱.
+* * ✉️ You can contact me at [dbritog@usm.cl](mailto:dbritog@usm.cl).
+* * 🤝 I'm open to collaborating on Education Projects.
+* * Happy mom👪, always learning.🌻Lover of running🏃, design💻, plastic arts🎨, and photography📷
+* * My Strava Profile🏃: https://www.strava.com/athletes/65662211
+* * My Instagram Profile📷: https://www.instagram.com/danelys.brito/ 
 
 <!---
 danelysbrito/danelysbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
